@@ -1,0 +1,12 @@
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\bin\Debug\netcoreapp2.2\DrumMapConverter.deps.json
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\bin\Debug\netcoreapp2.2\DrumMapConverter.runtimeconfig.json
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\bin\Debug\netcoreapp2.2\DrumMapConverter.runtimeconfig.dev.json
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\bin\Debug\netcoreapp2.2\DrumMapConverter.dll
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\bin\Debug\netcoreapp2.2\DrumMapConverter.pdb
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\obj\Debug\netcoreapp2.2\DrumMapConverter.csproj.CoreCompileInputs.cache
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\obj\Debug\netcoreapp2.2\DrumMapConverter.AssemblyInfoInputs.cache
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\obj\Debug\netcoreapp2.2\DrumMapConverter.AssemblyInfo.cs
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\obj\Debug\netcoreapp2.2\DrumMapConverter.dll
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\obj\Debug\netcoreapp2.2\DrumMapConverter.pdb
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Proj Dev\DrumMapConverter\DrumMapConverter\obj\Debug\netcoreapp2.2\DrumMapConverter.csprojAssemblyReference.cache

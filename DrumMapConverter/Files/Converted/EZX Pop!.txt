@@ -1,0 +1,56 @@
+# MIDI note/CC name map
+EZX Pop!
+20 [Hats] CC Variable
+21 [Hats] Closed
+22 [Hats] Closed Edge
+23 [Hats] Open Pedal
+24 [Hats] Open 1
+25 [Hats] Open 2
+26 [Hats] Open 3
+27 [Cymbal 1] alias
+28 [Cymbal 1] Crashed
+29 [Cymbal 2] alias
+30 [Cymbal 2] Crashed
+31 [Cymbal 3] alias
+32 [Cymbal 3] Crashed
+33 [Snare] alias
+34 [Kick] alias
+35 [Kick] alias
+36 [Kick] Hit
+37 [Snare] Sidestick
+38 [Snare] Center
+39 [FX] Handclap
+40 [Snare] Center
+41 [Floortom] Center
+42 [Hats]{GM} Closed
+43 [Hats]{GM} Center
+44 [Hats]{GM} Pedal
+45 [Floortom] Center
+46 [Racktom 2] Open
+47 [Racktom 2] Center
+48 [Racktom 1] Center
+49 [Cymbal 1] Crashed
+50 [Cymbal 1] Muted
+51 [Ride] Bow
+52 [Ride] Edge
+53 [Ride] Bell
+54 [Tamb] Hit
+55 [Cymbal 2] Crashed
+56 [Percu] Hit
+57 [Cymbal 3] Crashed
+58 [FX] Fingersnap
+59 [Ride] Edge
+60 [Hats] Open Max
+61 [Hats] Closed Tip
+62 [Hats] Tight Edge
+63 [Hats] Tight Tip
+64 [Hats] Closed Edge
+65 [Hats] Seq Hits
+119 [Maracas] Off Beat
+120 [Maracas] On Beat
+121 [Maracas] Beat
+122 [Cabasa] alias
+123 [Cabasa] alias
+124 [Cabasa] Beat
+125 [Shaker] Off Beat
+126 [Shaker] On Beat

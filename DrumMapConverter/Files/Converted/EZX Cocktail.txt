@@ -1,0 +1,48 @@
+# MIDI note/CC name map
+EZX Cocktail
+20 [Hats] CC Variable
+21 [Hats] Closed Pedal
+22 [Hats] Closed
+23 [Hats] Open Pedal
+24 [Hats] Open 1
+25 [Hats] Open 2
+26 [Hats] Open 3
+27 [Ride] alias
+28 [Ride] alias
+29 [Ride] alias
+30 [Ride] alias
+31 [Ride] alias
+32 [Ride] Edge
+33 [Snare] alias
+34 [Kick] alias
+35 [Kick] alias
+36 [Kick] Hit
+37 [Snare] Sidestick
+38 [Snare] Center
+39 [Snare] alias
+40 [Snare] Rimshot
+41 [Tom] alias
+42 [Hats]{GM} Closed
+43 [Tom] alias
+44 [Hats]{GM} Pedal
+45 [Tom] Center
+46 [Hats]{GM} Open
+47 [Hi Snare] alias
+48 [Hi Snare] Center
+49 [Ride] alias
+50 [Ride] Edge
+51 [Ride] Bow
+52 [Ride] Edge
+53 [Ride] Bell
+54 [Ride] alias
+55 [Ride] alias
+56 [Ride] alias
+57 [Ride] alias
+58 [Ride] alias
+59 [Ride] Edge
+60 [Hats] Open Max
+61 [Hats] alias
+62 [Hats] alias
+63 [Hats] Closed
+64 [Hats] Open Min
+65 [Hats] Sequence

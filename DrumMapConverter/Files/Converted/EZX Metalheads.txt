@@ -1,0 +1,51 @@
+# MIDI note/CC name map
+EZX Metalheads
+21 [Hats] Close Pedal
+22 [Hats] Closed Edge
+23 [Hats] Open Pedal
+24 [Hats] Open 1
+25 [Hats] Open 2
+26 [Hats] Open 3
+27 [China 1] Crashed
+28 [Cymb 1] Crashed
+29 [Spock] Crashed
+30 [Cymb 3] Crashed
+31 [Cymb 4] Crashed
+32 [Cymb 6] Crashed
+33 [Snare] Center
+34 [Kick] alias
+35 [Kick] Left
+36 [Kick] Right
+37 [Snare] Sidestick
+38 [Snare] Center
+39 [Snare] Center
+40 [Snare] Rimshot
+41 [FloorT2] Center
+42 {Hats GM} Closed
+43 [FloorT1] Center
+44 {Hats GM} Pedal
+45 [RackT3] Center
+46 {Hats GM} Open
+47 [RackT2] Center
+48 [RackT1] Center
+49 [Cymb 2] Crashed
+50 [Cymb 2] Muted
+51 [Ride] Bow
+52 [China 2] Crashed
+53 [Ride] Bell
+54 [Cymb 2] Muted
+55 [Splash] Crashed
+56 [Ride] Bell
+57 [Cymb 5] Crashed
+58 [Cymb 5] Muted
+59 [Ride] Edge
+60 [Hats] Open Max
+61 [Hats] Closed Tip
+62 [Hats] alias
+63 [Hats] Closed Tip
+64 [Hats] Closed Edge
+65 [Hats] Seq Hits
+94 [Cymbal 1] Muted
+95 [Cymbal 3] Muted
+106 [Cymbal 4] Muted
+107 [Cymbal 6] Muted

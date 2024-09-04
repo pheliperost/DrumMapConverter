@@ -1,0 +1,61 @@
+# MIDI note/CC name map
+EZX Seventies Rock
+20 [Hi-Hat] CC Variable
+21 [Hi-Hat] Closed Pedal
+22 [Hi-Hat] Closed Edge
+23 [Hi-Hat] Open Pedal
+24 [Hi-Hat] Open 1
+25 [Hi-Hat] Open 2
+26 [Hi-Hat] Open 3
+27 [Cymbal 1] alias
+28 [Cymbal 1] alias
+29 [Ride] alias
+30 [Ride] alias
+31 [Cymbal 2] alias
+32 [Cymbal 2] alias
+33 [Snare] alias
+34 [Kick] alias
+35 [Kick] alias
+36 [Kick] Hit
+37 [Snare] Sidestick
+38 [Snare] Center
+39 [Snare] alias
+40 [Snare] Rimshot
+41 [Floortom 2] Center
+42 [HH]{GM} Closed
+43 [Floortom 1] Center
+44 [HH]{GM} Pedal
+45 [Racktom] alias
+46 [HH]{GM} Open
+47 [Racktom] alias
+48 [Racktom] Center
+49 [Cymbal 1] Crashed
+50 [Cymbal 1] Muted
+51 [Ride] Bow
+52 [Ride] alias
+53 [Ride] Bell
+54 [Ride] alias
+55 [Cymbal 1] alias
+56 [Cymbal 1] alias
+57 [Cymbal 2] Crashed
+58 [Cymbal 2] Muted
+59 [Ride] Edge
+60 [Hi-Hat] Open Max
+61 [Hi-Hat] Closed Tip
+62 [Hi-Hat] Tight Edge
+63 [Hi-Hat] Tight Tip
+64 [Hi-Hat] alias
+65 [Hi-Hat] alias
+72 [Floortom 2] alias
+73 [Floortom 2] Rimshot
+74 [Floortom 1] alias
+75 [Floortom 1] Rimshot
+76 [Snare] alias
+77 [Floortom 1] alias
+78 [Floortom 1] alias
+79 [Racktom] alias
+80 [Racktom] alias
+81 [Racktom] alias
+82 [Racktom] Rimshot
+83 [Ride] Muted
+84 [Ride] alias

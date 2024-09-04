@@ -1,0 +1,109 @@
+# MIDI note/CC name map
+EZX Twisted Kit
+21 [Hats] Pedal Chick
+22 [Hats] Closed Edge
+23 [Hats] Foot Splash
+24 [Hats] Open 1
+25 [Hats] Open 2
+26 [Hats] Open 3
+27 [China1] Crashed
+28 [CrashrA] Crashed
+29 [China2] Crashed
+30 [CrashrB] Crashed
+31 [CrashrB] Crashed
+32 [CrashrB] Circling
+33 [Snare] Left
+34 [Kick] alias
+35 [Kick] alias
+36 [Kick] Right
+37 [Snare] Sidestick
+38 [Snare] Head
+39 [FX] Hand Claps
+40 [Snare] Rimshot
+41 [Djembe] Head
+42 {GM} Closed HH
+43 [CHTom4] Head
+44 {GM} HH Pedal
+45 [CHTom3] Head
+46 {GM} Open HH
+47 [CHTom2] Head
+48 [CHTom1] Head
+49 [CrashrA] Crashed
+50 [CHTom1] Head
+51 [RideFX] Bowl Hit
+52 {GM} China
+53 [RideFX] Spoxe/WBk
+54 [Tamb] Hit
+55 {GM} Hubcap
+56 [Special] Tamb/WBk
+57 [CrashrB] Crashed
+58 [FX] Ratchet
+59 [RideFX] Tamb/Gong
+60 [Hats] Open Max
+61 [Hats] Closed Tip
+62 [Hats] Tight
+63 [Hats] Tight Tip
+64 [Hats] Seq hard
+65 [Hats] Seq Soft
+66 [BrushFX] alias
+67 [BrushFX] alias
+68 [BrushFX] Tap
+69 [AltSnr] alias
+70 [AltSnr] Left
+71 [AltSnr] Right
+72 [Djembe] Left
+73 [Djembe] Right
+74 [CHTom4] Left
+75 [CHTom4] Right
+76 [Special] Cakepan
+77 [CHTom3] Left
+78 [CHTom3] Right
+79 [CHTom2] Left
+80 [CHTom2] Right
+81 [CHTom1] Left
+82 [CHTom1] Right
+83 [Body] Stairstep
+84 [Body] Chest Hit
+85 [Body] Hand Breath
+86 [Body] Hand Claps
+87 [Body] Zip OffBeat
+88 [Body] Zip OnBeat
+89 [Body] Mth OffBeat
+90 [Body] Mth OnBeat
+91 [Body] Hands Body
+92 [OneShot] Hubcap
+93 [OneShot] Tamb/WBlk
+94 [OneShot] Tamb/Gong
+95 [OneShot] Cakepan
+96 [OneShot] Spoxe/WBlk
+97 [OneShot] Bowl Hit
+98 [OneShot] BrushedDH
+99 [FXBox] Cow Moo
+100 [FXBox] Train Short
+101 [FXBox] Train Long
+102 [FXBox] Siren Short
+103 [FXBox] Siren Long
+104 [FXBox] Duck Quack
+105 [FXBox] Ratchet
+106 [FXBox] Thunder SkR
+107 [FXBox] Thunder Hit
+108 [FXBox] Accordeon
+109 [4Tone] Pitch 4
+110 [4Tone] Pitch 3
+111 [4Tone] Pitch 2
+112 [4Tone] Pitch 1
+113 [Clappers] alias
+114 [Clappers] Hit
+115 [Clappers] Off Beat
+116 [Clappers] On Beat
+117 [Clangers] Hand
+118 [Clangers] Open
+119 [Clangers] Muted
+120 [Clangers] Open
+121 [HndDrm] Open
+122 [HndDrm] Muted
+123 [Mouth] Off Beat
+124 [Mouth] On Beat
+125 [Rattles] Off Beat
+126 [Rattles] On Beat
+127 [Rattles] Crescendo

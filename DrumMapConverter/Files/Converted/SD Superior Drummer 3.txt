@@ -1,0 +1,124 @@
+# MIDI note/CC name map
+SD Superior Drummer 3
+6 [Snare] {CC} Position Trig
+7 [Hi-Hat] {CC} Edge Trig
+8 [Hi-Hat] {CC} Tip Trig
+9 [Hi-Hat] {CC} Bell Trig
+10 [Hi-Hat] alias
+11 [Hi-Hat] alias
+12 [Hi-Hat] Open Tip 0
+13 [Hi-Hat] Open Tip 1
+14 [Hi-Hat] Open Tip 2
+15 [Hi-Hat] Open Tip 3
+16 [Hi-Hat] Open Tip 4
+17 [Hi-Hat] Open Tip 5
+18 [Hi-Hat] {CC} alias
+19 [Hi-Hat] {CC} alias
+20 [Hi-Hat] {CC} Shaft Trig
+21 [Hi-Hat] Closed Pedal
+22 [Hi-Hat] Closed Edge
+23 [Hi-Hat] Open Pedal
+24 [Hi-Hat] Open 1
+25 [Hi-Hat] Open 2
+26 [Hi-Hat] Open 3
+27 [Cymbal 1] Crashed
+28 [Cymbal 2] alias
+29 [Cymbal 3] alias
+30 [Ride] alias
+31 [Cymbal 4] alias
+32 [Cymbal 5] alias
+33 [Snare] Edge
+34 [Kick] alias
+35 [Kick] Hit
+36 [Kick] Open
+37 [Snare] Sidestick
+38 [Snare] Center
+39 [Snare] Ruffs
+40 [Snare] Rimshot
+41 [Floortom 2] Center
+42 [Hi-Hat] {GM} Closed
+43 [Floortom 1] Center
+44 [Hi-Hat] {GM} Pedal
+45 [Racktom 3] Center
+46 [Hi-Hat] {GM} Open
+47 [Racktom 2] Center
+48 [Racktom 1] Center
+49 [Cymbal 2] Crashed
+50 [Cymbal 2] Muted
+51 [Ride] Bow Tip
+52 [Cymbal 5] Crashed
+53 [Ride] Bell Shank
+54 [Cymbal 5] Muted
+55 [Cymbal 3] Crashed
+56 [Cymbal 3] Muted
+57 [Cymbal 4] Crashed
+58 [Cymbal 4] Muted
+59 [Ride] Crashed
+60 [Hi-Hat] Open Max
+61 [Hi-Hat] Closed Tip
+62 [Hi-Hat] Tight Edge
+63 [Hi-Hat] Tight Tip
+64 [Hi-Hat] Open Min
+65 [Hi-Hat] Seq Hits
+66 [Brushes] Back Swirl
+67 [Brushes] Fwd Swirl
+68 [Brushes] Muted Hit
+69 [Snare] Flam
+70 [Snare] Thump
+71 [Snare] Rim Only
+72 [Floortom 2] Rim Only
+73 [Floortom 2] Rimshot
+74 [Floortom 1] Rim Only
+75 [Floortom 1] Rimshot
+76 [Snare] alias
+77 [Racktom 3] Rim Only
+78 [Racktom 3] Rimshot
+79 [Racktom 2] Rim Only
+80 [Racktom 2] Rimshot
+81 [Racktom 1] Rim Only
+82 [Racktom 1] Rimshot
+83 [Cymbal 1] Muted
+84 [Cymbal 1] Bow Tip
+85 [Cymbal 1] Bell Shank
+86 [Cymbal 1] alias
+87 [Cymbal 1] Bow Shank
+88 [Cymbal 1] Bell Tip
+89 [Cymbal 2] Bow Tip
+90 [Cymbal 2] Bell Shank
+91 [Cymbal 2] alias
+92 [Cymbal 2] Bow Shank
+93 [Cymbal 2] Bell Tip
+94 [Cymbal 2] alias
+95 [Cymbal 3] alias
+96 [Cymbal 3] Bow Tip
+97 [Cymbal 3] Bell Shank
+98 [Cymbal 3] alias
+99 [Cymbal 3] Bow Shank
+100 [Cymbal 3] Bell Tip
+101 [Cymbal 4] Bow Tip
+102 [Cymbal 4] Bell Shank
+103 [Cymbal 4] alias
+104 [Cymbal 4] Bow Shank
+105 [Cymbal 4] Bell Tip
+106 [Cymbal 4] alias
+107 [Cymbal 5] alias
+108 [Cymbal 5] Bow Tip
+109 [Cymbal 5] Bell Shank
+110 [Cymbal 5] alias
+111 [Cymbal 5] Bow Shank
+112 [Cymbal 5] Bell Tip
+113 [Ride] alias
+114 [Ride] alias
+115 [Ride] alias
+116 [Ride] Bow Shank
+117 [Ride] Bell Tip
+118 [Ride] Muted
+119 [Hi-Hat] Closed Bell
+120 [Hi-Hat] Open Bell 0
+121 [Hi-Hat] Open Bell 1
+122 [Hi-Hat] Open Bell 2
+123 [Hi-Hat] Open Bell 3
+124 [Hi-Hat] Open Bell 4
+125 [Snare] Mid Center
+126 [Brushes] Backward
+127 [Brushes] Forward

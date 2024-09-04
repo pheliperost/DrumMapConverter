@@ -1,0 +1,57 @@
+# MIDI note/CC name map
+EZX Dream Pop
+36 [Kick] Hit
+37 [Trig] Hit
+38 [Snare] Center
+39 [Claps] Hit
+40 [Snare] alias
+41 [Tom 4] Center
+42 [HH] Closed
+43 [Tom 3] Center
+44 [HH] Closed
+45 [Tom 2] alias
+46 [HH] Open
+47 [Tom 2] Center
+48 [Tom 1] Center
+49 [Cymbal 1] Crashed
+50 [Cymbal FX] Crescendo
+51 [Ride] Bow Tip
+52 [Cymbal 2] alias
+53 [Ride] alias
+54 [Tambourine] Hit
+55 [Cymbal 3] Crashed
+56 [HH] alias
+57 [Cymbal 2] Crashed
+58 [Snaps] Hit
+59 [Ride] Bow Shank
+76 [Perc] Perc 1
+77 [Perc] Perc 2
+78 [Perc] Perc 3
+79 [Perc] Perc 4
+80 [Filter] Filter 1
+81 [Filter] Filter 2
+82 [Trig] alias
+83 [FX] Mute
+84 [FX] C Low
+85 [FX] C# Low
+86 [FX] D Low
+87 [FX] D# Low
+88 [FX] E
+89 [FX] F
+90 [FX] F#
+91 [FX] G
+92 [FX] G#
+93 [FX] A
+94 [FX] A#
+95 [FX] B
+96 [FX] C Hi
+97 [FX] C# Hi
+98 [FX] D Hi
+99 [FX] D# Hi
+100 [FX] FX 1
+101 [FX] FX 2
+102 [FX] FX 3
+103 [FX] FX 4
+125 [Shaker] alias
+126 [Shaker] Shake
+127 [Tambourine] alias

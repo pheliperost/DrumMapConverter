@@ -1,0 +1,81 @@
+# MIDI note/CC name map
+EZX Claustrophobic
+19 [XHats] Closed
+20 [DKHats] Closed
+21 [Hats] Closed Pedal
+22 [Hats] Closed Edge
+23 [Hats] Open Pedal
+24 [Hats] Open 1
+25 [Hats] Open 2
+26 [Hats] Open 3
+27 [China] Crashed
+28 [Ride] alias
+29 [China] Crashed
+30 [Splash] alias
+31 [Splash] Crashed
+32 [Ride] Edge
+33 [Snare] Center
+34 [FX] Footstomps
+35 [Kick] alias
+36 [Kick] Hit
+37 [Snare] Sidestick
+38 [Snare] Center
+39 [FX] Handclap
+40 [Snare] Rimshot
+41 [FloorT2] Center
+42 {GM Hats} Closed
+43 [FloorT1] Center
+44 {GM Hats} Pedal
+45 [RackT2] Center
+46 {GM Hats} Open
+47 [RackT2] Center
+48 [RackT1] Center
+49 [Crash A] Crashed
+50 [Crash A] Muted
+51 [Ride] Bow
+52 [China] Crashed
+53 [Ride] Bell
+54 [Tamb] Hit
+55 [Splash] Crashed
+56 [Percu] Cowbell 1
+57 [Crash B] Crashed
+58 [FX] Fingersnap
+59 [Ride] Edge
+60 [Hats] Open Max
+61 [Hats] Closed Tip
+62 [Hats] Tight Edge
+63 [Hats] Tight Tip
+64 [Hats] Seq Hard
+65 [Hats] Seq Soft
+66 [HiSnare] Center
+67 [HiSnare] Sidestick
+68 [HiSnare] Center
+69 [HiSnare] Rimshot
+70 [SnareFX] alias
+71 [SnareFX] Shell
+72 [FloorT2] Center
+73 [FloorT2] Rimshot
+74 [FloorT1] Center
+75 [FloorT1] Rimshot
+76 [Percu] Cowbell 2
+77 [RackT2] Center
+78 [RackT2] Rimshot
+79 [RackT2] Center
+80 [RackT2] Rimshot
+81 [RackT1] Center
+82 [RackT1] Rimshot
+113 [Tamb] Hands
+114 [Tamb] Sticks
+115 [Tamb] Off Beat
+116 [Tamb] On Beat
+117 [Tamb] Crescendo
+118 [Triangle] Short
+119 [Triangle] Long
+120 [FX] Bells
+121 [Chimes] Down
+122 [Chimes] Up
+123 [Cabasa] Short
+124 [Cabasa] Long
+125 [Shaker] Off Beat
+126 [Shaker] On Beat
+127 [Shaker] Crescendo

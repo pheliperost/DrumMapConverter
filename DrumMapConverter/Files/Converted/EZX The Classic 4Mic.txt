@@ -1,0 +1,60 @@
+# MIDI note/CC name map
+EZX The Classic 4Mic
+20 [Hats] CC Variable
+21 [Hats] Closed Pedal
+22 [Hats] Closed Edge
+23 [Hats] Open Pedal
+24 [Hats] Open 1
+25 [Hats] Open 2
+26 [Hats] Open 3
+27 [Cymbal 1] alias
+28 [Cymbal 1] alias
+29 [Cymbal 2] alias
+30 [Cymbal 2] alias
+31 [Cymbal 3] alias
+32 [Cymbal 3] alias
+33 [Snare] alias
+34 [Kick] alias
+35 [Kick] alias
+36 [Kick] Hit
+37 [Snare] Sidestick
+38 [Snare] Center
+39 [Snare] Ruff
+40 [Snare] Rimshot
+41 [FloorTom] Center
+42 [Hats]{GM} Closed
+43 [FloorTom] Center
+44 [Hats]{GM} Pedal
+45 [RackTom3] Center
+46 [Hats]{GM} Open
+47 [RackTom2] Center
+48 [RackTom1] Center
+49 [Cymbal 1] Crashed
+50 [Cymbal 1] Muted
+51 [Ride] Ride Tip
+52 [Ride] Ride Shank
+53 [Ride] Bell Shank
+54 [Cymbal 2] Muted
+55 [Cymbal 2] Crashed
+56 [Ride] Bell Tip
+57 [Cymbal 3] Crashed
+58 [Cymbal 3] Muted
+59 [Ride] Edge
+60 [Hats] Open Max
+61 [Hats] Closed Tip
+62 [Hats] Tight Edge
+63 [Hats] Tight Tip
+64 [Hats] Open Min
+65 [Hats] Sequence
+71 [Snare] Rim Only
+72 [FloorTom] Center
+73 [FloorTom] Rimshot
+74 [FloorTom] Center
+75 [FloorTom] Rimshot
+76 [Snare] Rim Only
+77 [RackTom3] Center
+78 [RackTom3] Rimshot
+79 [RackTom2] Center
+80 [RackTom2] Rimshot
+81 [RackTom1] Center
+82 [RackTom1] Rimshot

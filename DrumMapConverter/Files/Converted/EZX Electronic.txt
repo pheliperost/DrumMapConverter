@@ -1,0 +1,43 @@
+# MIDI note/CC name map
+EZX Electronic
+36 [Kick] Kick
+37 [Snares] Rim
+38 [Snares] Snare
+39 [Snares] Clap
+40 [Snares] Snare 2
+41 [Toms/HH] Tom 1
+42 [Toms/HH] Hats 1
+43 [Toms/HH] Tom 2
+44 [Toms/HH] Hats 2
+45 [Toms/HH] Tom 3
+46 [Toms/HH] Hats 3
+47 [Toms/HH] Tom 4
+48 [Hits] Hits 1
+49 [Hits] Crash 1
+50 [Hits] Hits 2
+51 [Hits] Crash 2
+52 [Hits] Hits 3
+53 [Hits] Hits 4
+54 [Hits] Hits 5
+55 [Hits] Hits 6
+56 [Perc] Perc 1
+57 [Perc] Perc 2
+58 [Perc] Perc 3
+59 [Perc] Perc 4
+60 [Xtras] Hats 4
+61 [Xtras] Xtra 1
+62 [Xtras] Xtra 2
+63 [Xtras] Xtra 3
+64 [Xtras] Xtra 4
+65 [Xtras] Xtra 5
+66 [Xtras] Xtra 6
+67 [Xtras] Xtra 7
+68 [Xtras] Xtra 8
+69 [Xtras] Xtra 9
+70 [Xtras] Xtra 10
+71 [Xtras] Xtra 11
+72 [Xtras] Xtra 12
+73 [Xtras] Xtra 13
+74 [Xtras] Xtra 14
+75 [Xtras] Xtra 15
+76 [Xtras] Xtra 16

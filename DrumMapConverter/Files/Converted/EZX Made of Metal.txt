@@ -1,0 +1,51 @@
+# MIDI note/CC name map
+EZX Made of Metal
+20 [Hats] CC Variable
+21 [Hats] Closed Pedal
+22 [Hats] Closed Edge
+23 [Hats] Open Pedal
+24 [Hats] Open 1
+25 [Hats] Open 2
+26 [Hats] Open 3
+36 [Kick] Hit
+37 [Snare] Sidestick
+38 [Snare] Center
+40 [Snare] Rimshot
+41 [Floortom 2] Center
+43 [Floortom 1] Center
+47 [Racktom 2] Center
+48 [Racktom 1] Center
+49 [Cymbal 2] Crashed
+50 [Cymbal 2] Muted
+51 [Ride] Bow Tip
+52 [China] Crashed
+53 [Ride] Bell
+54 [China] Muted
+55 [Splash] Crashed
+56 [Splash] Muted
+57 [Cymbal 3] Crashed
+58 [Cymbal 3] Muted
+59 [Ride] Edge
+60 [Hats] Open Max
+61 [Hats] Closed Tip
+62 [Hats] Tight Edge
+63 [Hats] Tight Tip
+64 [Hats] Open Min
+65 [Hats] Seq Hits
+72 [Floortom 2] Center
+73 [Floortom 2] Rimshot
+74 [Floortom 1] Center
+75 [Floortom 1] Rimshot
+76 [Snare] Sidestick
+77 [Racktom 3] Center
+78 [Racktom 3] Rimshot
+79 [Racktom 2] Center
+80 [Racktom 2] Rimshot
+81 [Racktom 1] Center
+82 [Racktom 1] Rimshot
+83 [Ride] Muted
+84 [Ride] Bow
+94 [Cymbal 1] Muted
+95 [Cymbal 2] Muted
+106 [Cymbal 3] Muted
+107 [Cymbal 4] Muted

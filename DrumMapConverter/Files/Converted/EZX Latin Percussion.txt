@@ -1,0 +1,129 @@
+# MIDI note/CC name map
+EZX Latin Percussion
+1 [Maracas] Off Beat
+2 [Maracas] On Beat
+3 [Maracas] Off Beat
+4 [Maracas] On Beat
+5 [Maracas] Shake
+6 [Caxixi] Off Beat
+7 [Caxixi] On Beat
+8 [Caxixi] FX
+9 [Caxixi] Beat
+10 [Cajon] Right Bass
+11 [Cajon] Left Ghost
+12 [Cajon] Right Ghost
+13 [Cajon] Left Side
+14 [Cajon] Right Side
+15 [Timbale 1] Ruff
+16 [Timbale 1] Flam
+17 [Timbale 1] Sidestroke
+18 [Timbale 1] Rimshot
+19 [Timbale 1] Right Open
+20 [Timbale 2] Rimshot
+21 [Timbale 2] Right Open
+22 [Timbale 2] Flam
+23 [Timbale 2] Sidestroke
+24 [Tambourine] Open Hit
+25 [Tambourine] Muted Hit
+26 [Tambourine] Off Beat
+27 [Tambourine] On Beat
+28 [Bongo 1] Right Open
+29 [Bongo 1] Left Heel
+30 [Bongo 1] Right Heel
+31 [Bongo 1] Crescendo
+32 [Bongo 1] Flam
+33 [Udu] Left Ghost
+34 [Udu] Right Ghost
+35 [Udu] Open High
+36 [Udu] Open Low
+37 [Udu] Muted Slap
+38 [Udu] Open Slap
+39 [Udu] Flam
+40 [Cajon Slap] Left Normal
+41 [Cajon Slap] Right Norma
+42 [Cajon Slap] Left Mid
+43 [Cajon Slap] Right Mid
+44 [Shaker 2] Off Beat
+45 [Shaker 2] On Beat
+46 [Shaker 2] Shake
+47 [Afuche] Beat
+48 [Shaker 1] Off Beat
+49 [Shaker 1] On Beat
+50 [Shaker 1] Shake
+51 [Bongo 2] Right Open
+52 [Bongo 2] Crescendo
+53 [Bongo 2] Flam
+54 [Tambourine] Open Hit
+55 [Splash] Crashed
+56 [Cowbell] Hit
+57 [Cymbal 1] Crashed
+58 [Vibraslap] Stroke
+59 [Cymbal 2] Crashed
+60 [Bongo 1] Left Open
+61 [Bongo 2] Left Open
+62 [Conga 1] Left Muted
+63 [Conga 1] Left Open
+64 [Conga 1] Left Bass
+65 [Timbale 1] Left Open
+66 [Timbale 2] Left Open
+67 [Bells] Hit
+68 [Waterfall] Stroke
+69 [Maracas] Off Beat
+70 [Maracas] On Beat
+71 [Crickets] Stroke
+72 [Chimes] Stroke
+73 [Guiro] Short
+74 [Guiro] Long
+75 [Woodblock] Block 3
+76 [Woodblock] Block 1
+77 [Woodblock] Block 2
+78 [Udu] Muted Slap
+79 [Udu] Open Slap
+80 [Triangle] Muted
+81 [Triangle] Open
+82 [Cajon] Flam
+83 [Cajon] Crescendo
+84 [Cajon] Brush Hit L
+85 [Cajon] Brush Hit R
+86 [Cajon] Left Brush
+87 [Cajon] Right Brush
+88 [Conga 1] Slap Cresc
+89 [Conga 1] Right Muted
+90 [Conga 1] Right Open
+91 [Conga 1] Right Bass
+92 [Conga 1] Open Slap L
+93 [Conga 1] Open Slap R
+94 [Conga 1] Closed Slap L
+95 [Conga 1] Closed Slap R
+96 [Conga 1] Left Heel
+97 [Conga 1] Right Heel
+98 [Conga 1] Crescendo
+99 [Conga 1] Flam
+100 [Conga 1] Slap Flam
+101 [Conga 1] FX
+102 [Conga 2] Left Open
+103 [Conga 2] Right Open
+104 [Conga 2] Left Muted
+105 [Conga 2] Right Muted
+106 [Conga 2] Left Bass
+107 [Conga 2] Right Bass
+108 [Conga 2] Crescendo
+109 [Conga 2] Flam
+110 [Conga 2] FX
+111 [Conga 2] Left Open
+112 [Conga 2] Right Open
+113 [Conga 2] Left Muted
+114 [Conga 2] Right Muted
+115 [Conga 2] Crescendo
+116 [Udu] Slap Cresc
+117 [Udu] Open Cresc
+118 [Tambourine] Crescendo
+119 [Bells] Crescendo
+120 [Cymbal 1] Crescendo
+121 [Waterfall] Crescendo
+122 [Cymbal 2] Crescendo
+123 [Crickets] Crescendo
+124 [Shekere] Beat
+125 [Shekere] Off beat
+126 [Shekere] On Beat
+127 [Shekere] Shake

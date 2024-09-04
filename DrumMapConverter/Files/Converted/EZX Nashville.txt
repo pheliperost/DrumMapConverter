@@ -1,0 +1,68 @@
+# MIDI note/CC name map
+EZX Nashville
+20 [Hats] CC Variable
+21 [Hats] Closed Pedal
+22 [Hats] Closed Edge
+23 [Hats] Open Pedal
+24 [Hats] Open 1
+25 [Hats] Open 2
+26 [Hats] Open 3
+27 [Cymbal 1] alias
+28 [Cymbal 1] alias
+29 [Cymbal 1] Crashed
+30 [Cymbal 3] alias
+31 [Cymbal 3] alias
+32 [Cymbal 3] Crashed
+33 [Snare] Center
+34 [Kick] alias
+35 [Kick] alias
+36 [Kick] Hit
+37 [Snare] Sidestick [Hand] Closed Slap
+38 [Snare] Center [Hand] Open Slap
+39 [Snare] alias [Hand] Closed Rim
+40 [Snare] Rimshot [Hand] Open Rim
+41 [Floortom] alias
+42 [Hats]{GM} Closed
+43 [Floortom] Center
+44 [Hats]{GM} Pedal
+45 [Racktom 2] alias
+46 [Hats]{GM} Open
+47 [Racktom 2] Center
+48 [Racktom 1] Center
+49 [Cymbal 1] Crashed
+50 [Cymbal 1] Muted
+51 [Ride] Bow
+52 [China] Crashed
+53 [Ride] Bell
+54 [Cymbal 1] Muted
+55 [Cymbal 2] Crashed
+56 [Cymbal 2] Muted
+57 [Cymbal 3] Crashed
+58 [Cymbal 3] Muted
+59 [Ride] Edge
+60 [Hats] Open Max
+61 [Hats] Closed Tip
+62 [Hats] Tight Edge
+63 [Hats] Tight Tip
+64 [Hats] Seq Hard
+65 [Hats] Seq Soft
+66 [Brush] Left Tap [Fingers] Palm
+67 [Brush] Sticks [Fingers] Thumb
+68 [Brush] Right Tap [Fingers] Palm
+69 [Fingers] Index
+70 [Fingers] Middle
+71 [Fingers] Ring
+72 [Floortom] Center
+73 [Floortom] Rimshot
+74 [Floortom] Center
+75 [Floortom] Rimshot
+76 [Special] Sticks
+77 [Racktom 2] Center
+78 [Racktom 2] Rimshot
+79 [Racktom 2] Center
+80 [Racktom 2] Rimshot
+81 [Racktom 1] Center
+82 [Racktom 1] Rimshot
+119 [Hats] Closed Bell
+120 [Hats] Open Bell 1
+121 [Hats] Open Bell 2

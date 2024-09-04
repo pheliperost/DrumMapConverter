@@ -1,0 +1,48 @@
+# MIDI note/CC name map
+EZX Number 1 Hits
+21 [HH Group] alias
+22 [HH Group] Closed
+23 [HH Group] alias
+24 [HH Group] Small
+25 [HH Group] alias
+26 [HH Group] Open
+34 [KD] Short
+35 [KD] Long
+36 [KD] Main
+37 [SD] Small
+38 [SD] Main
+39 [Claps] Hit
+40 [SD] Fat
+41 [FX] Low
+42 [HH] Closed
+43 [Tom] Low
+44 [HH] Small
+45 [Tom] Mid
+46 [HH] Open
+47 [Tom] Mid
+48 [Tom] Hi
+49 [Crash] Large
+50 [FX] Hi
+51 [Ride] Ride
+52 [Crash] Large
+53 [Ride] Ride
+54 [Tamb] Hit
+55 [Crash] Small
+56 [Perc] Hit
+57 [Crash] Small
+58 [Shaker] Hit
+59 [Ride] Ride
+74 [KD] D Low
+75 [KD] D# Low
+76 [KD] E
+77 [KD] F
+78 [KD] F#
+79 [KD] G
+80 [KD] G#
+81 [KD] A
+82 [KD] A#
+83 [KD] B
+84 [KD] C
+85 [KD] C#
+86 [KD] D Hi
+87 [KD] D# Hi

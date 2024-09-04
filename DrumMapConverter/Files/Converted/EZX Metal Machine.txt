@@ -1,0 +1,63 @@
+# MIDI note/CC name map
+EZX Metal Machine
+20 [Hats] CC Variable
+21 [Hats] Closed Pedal
+22 [Hats] Closed Edge
+23 [Hats] Open Pedal
+24 [Hats] Open 1
+25 [Hats] Open 2
+26 [Hats] Open 3
+27 [China 1] Crashed
+28 [Cymbal 1] Crashed
+29 [Spock] Crashed
+30 [Cymbal 3] Crashed
+31 [Cymbal 4] Crashed
+32 [Cymbal 6] Crashed
+33 [Snare] alias
+34 [Kick] alias
+35 [Kick] Left
+36 [Kick] Right
+37 [Snare] Sidestick
+38 [Snare] Center
+39 [Snare] alias
+40 [Snare] Rimshot
+41 [Floortom 2] Center
+42 [Hats]{GM} Closed
+43 [Floortom 1] Center
+44 [Hats]{GM} Pedal
+45 [Racktom 3] Center
+46 [Hats]{GM} Open
+47 [Racktom 2] Center
+48 [Racktom 1] Center
+49 [Cymbal 2] Crashed
+50 [Cymbal 2] Muted
+51 [Ride] Bow
+52 [China 2] Crashed
+53 [Ride] Bell
+54 [Cymbal 2] Muted
+55 [Splash] Crashed
+56 [Cymbal 5] Muted
+57 [Cymbal 5] Crashed
+58 [Cymbal 5] Muted
+59 [Ride] Bow
+60 [Hats] Open Max
+61 [Hats] Closed Tip
+62 [Hats] Tight Edge
+63 [Hats] Tight Tip
+64 [Hats] Closed Edge
+65 [Hats] Seq Hits
+72 [Floortom 2] alias
+73 [Floortom 2] Center
+74 [Floortom 1] Center
+75 [Floortom 1] Rimshot
+76 [Snare] Sidestick
+77 [Racktom 3] Center
+78 [Racktom 3] Rimshot
+79 [Racktom 2] Center
+80 [Racktom 2] Rimshot
+81 [Racktom 1] Center
+82 [Racktom 1] Rimshot
+94 [Cymbal 1] Muted
+95 [Cymbal 3] Muted
+106 [Cymbal 4] Muted
+107 [Cymbal 6] Muted

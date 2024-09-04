@@ -1,0 +1,69 @@
+# MIDI note/CC name map
+EZX Jazz
+20 [Hats] CC Variable
+21 [Hats] Closed Pedal
+22 [Hats] Closed Edge
+23 [Hats] Open Pedal
+24 [Hats] Open 1
+25 [Hats] Open 2
+26 [Hats] Open 3
+27 [Crash] alias
+28 [Crash] alias
+29 [Crash] Crashed
+30 [Ride] alias
+31 [Ride] alias
+32 [Ride] Edge
+33 [Snare] alias
+34 [Kick] Hit
+35 [Kick] Open
+36 [Kick] Hit
+37 [Snare] Sidestick
+38 [Snare] Center
+39 [Snare] Half Circle
+40 [Snare] Rimshot
+41 [Floortom] Center
+42 [Hats]{GM} Closed
+43 [Floortom 1] Center
+44 [Hats]{GM} Pedal
+45 [Racktom 2] Center
+46 [Hats]{GM} Open
+47 [Racktom 2] Center
+48 [Racktom 1] Center
+49 [Crash] Crashed
+50 [Crash] Muted
+51 [Ride] Ride Tip
+52 [Ride] Ride Shank
+53 [Ride] Bell Shank
+54 [Crash] Muted
+55 [Crash] Crashed
+56 [Ride] Bell Tip
+57 [Ride] Edge
+58 [Ride] Muted
+59 [Ride] Edge
+60 [Hats] Open Max
+61 [Hats] Closed Tip
+62 [Hats] Tight Edge
+63 [Hats] Tight Tip
+66 [Brush] Short Drag
+67 [Brush] Full Circle
+68 [Brush] Muted
+69 [Brush] Half Circle
+70 [Snare] Center
+71 [Snare] Rim only
+72 [Floortom] Rim only
+73 [Floortom] Rimshot
+74 [Floortom] Rim only
+75 [Floortom] Rimshot
+76 [Sticks] Count-ins
+77 [Racktom 2] Rim only
+78 [Racktom 2] Rimshot
+79 [Racktom 2] Rim only
+80 [Racktom 2] Rimshot
+81 [Racktom 1] Rim only
+82 [Racktom 1] Rimshot
+116 [Ride] Ride Shank
+117 [Ride] Bell Tip
+118 [Ride] Muted
+119 [Hats] Closed Bell
+120 [Hats] Open Bell 1
+121 [Hats] Open Bell 2

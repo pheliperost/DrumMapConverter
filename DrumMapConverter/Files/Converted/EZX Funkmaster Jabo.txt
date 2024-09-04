@@ -1,0 +1,69 @@
+# MIDI note/CC name map
+EZX Funkmaster Jabo
+20 [Hi-Hat] CC Variable
+21 [Hi-Hat] Closed Pedal
+22 [Hi-Hat] Closed Edge
+23 [Hi-Hat] Open Pedal
+24 [Hi-Hat] Open 1
+25 [Hi-Hat] Open 2
+26 [Hi-Hat] Open 3
+27 [Crash Ride] alias
+28 [Crash Ride] alias
+29 [Crash Ride] alias
+30 [Ride] alias
+31 [Ride] alias
+32 [Ride] alias
+33 [Snare] alias
+34 [Kick] alias
+35 [Kick] alias
+36 [Kick] Hit
+37 [Snare] Sidestick
+38 [Snare] Center
+39 [Snare] alias
+40 [Snare] Rimshot
+41 [Floortom] alias
+42 [HH]{GM} Closed
+43 [Floortom] Center
+44 [HH]{GM} Pedal
+45 [Racktom 2] alias
+46 [HH]{GM} Open
+47 [Racktom 2] Center
+48 [Racktom 1] Center
+49 [Crash Ride] Crashed
+50 [Crash Ride] Muted
+51 [Ride] Bow
+52 [Ride] alias
+53 [Ride] Bell
+54 [Crash Ride] alias
+55 [Crash Ride] alias
+56 [Woodblock] Hit
+57 [Ride] alias
+58 [Ride] Muted
+59 [Ride] Edge
+60 [Hi-Hat] Open Max
+61 [Hi-Hat] Closed Tip
+62 [Hi-Hat] Tight Edge
+63 [Hi-Hat] Tight Tip
+64 [Hi-Hat] alias
+65 [Hi-Hat] Seq Hits
+68 [Snare] alias
+69 [Snare] alias
+70 [Snare] alias
+71 [Snare] Rim Only
+72 [Floortom] alias
+73 [Floortom] alias
+74 [Floortom] Rim Only
+75 [Floortom] Rimshot
+76 [Woodblock] Stick
+77 [Racktom 2] alias
+78 [Racktom 2] alias
+79 [Racktom 2] Rim Only
+80 [Racktom 2] Rimshot
+81 [Racktom 1] Rim Only
+82 [Racktom 1] Rimshot
+83 [Crash Ride] alias
+84 [Crash Ride] Bow
+85 [Crash Ride] Bell
+119 [Hi-Hat] Closed Bell
+120 [Hi-Hat] Open Bell 1
+121 [Hi-Hat] Open Bell 2
